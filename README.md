@@ -38,9 +38,16 @@ python3 midiToGPIO.py project.mid
 ```
 
 <br/>
+
 If starting by using LEDs, the result should look something like this:
-![led gif](images/midi2leds.gif)
 <br/>
+
+![led gif](images/midi2leds.gif)
+
+<br/>
+
 The pretext for this project was development of a fountain using solenoids.<br/> 
 Prototype results can be viewed here:
+<br/>
+
 [![](images/fountain.png)](https://youtu.be/D7yVm_x9mQ0)
