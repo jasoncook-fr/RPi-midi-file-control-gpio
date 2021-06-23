@@ -37,6 +37,8 @@ After preparing a circuit with designated outputs prepared, you should be able t
 python3 midiToGPIO.py project.mid
 ```
 
-If starting by using LEDs on a Raspberry Pi, the result should be something like this:
+If starting by using LEDs, the result should look something like this:
 ![led gif](images/midi2leds.gif)
 
+The pretext for this project was development of a fountain using solenoids. Prototype results can be viewed here:
+[![alt text](images/fountain.png)](https://www.youtube.com/watch?v=D7yVm_x9mQ0)
